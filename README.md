@@ -1,7 +1,6 @@
 ### Marc Greenberg - Fractional CTO/Tech Consultant
 
-For **SaaS companies** that want to grow quickly, I offer **technology leadership** that helps build software faster, manage teams better, and solve big tech problems. With more than 25 years of experience, I make sure companies are ready to handle more users and stay competitive.
-
+**Driving SaaS Success**: I deliver tangible results by optimizing your tech stack, empowering your team, and solving critical problems. My strategic guidance ensures your company is well-positioned for rapid growth and sustained success.
 
 * 🌍  I'm based in South Florida
 * 🖥️  See my portfolio at [codemarc.net](http://codemarc.net)
