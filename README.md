@@ -9,7 +9,7 @@ I drive impactful change and lead innovative projects. I am eager to take on any
 * ✉️  You can contact me at [marc@codemarc.net](mailto:marc@codemarc.net)
 * 🚀  I'm currently working on a series of articles [Meet DuckGPT, your next DSS](https://codemarc.hashnode.dev/series/duck-to-dss)
 
-![Tell it to the Duck](https://cdn.hashnode.com/res/hashnode/image/upload/v1734724967753/bd4dab66-9f50-4c2a-8201-049e22278079.webp?w=256&fit=crop&crop=entropy&auto=compress,format&format=webp)
+![[Tell it to the Duck(https://codemarc.hashnode.dev/series/duck-to-dss)](https://cdn.hashnode.com/res/hashnode/image/upload/v1734724967753/bd4dab66-9f50-4c2a-8201-049e22278079.webp?w=256&fit=crop&crop=entropy&auto=compress,format&format=webp)
 
 
 ### Skills
