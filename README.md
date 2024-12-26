@@ -1,7 +1,8 @@
 ### Marc Greenberg - Direct of Software Strategy 
-and simetimes a fractional CTO/Tech Consultant
+and sometimes a fractional CTO/Tech Consultant
 
-**Driving SaaS Success**: I deliver tangible results by optimizing your tech stack, empowering your team, and solving critical problems. My strategic guidance ensures your company is well-positioned for rapid growth and sustained success.
+I drive impactful change and lead innovative projects. I am eager to take on any new challenge that allows for broad strategic influence and collaboration. I seek to contribute to an organization with a bold vision where I can apply my expertise in scaling engineering teams, delivering transformative customer experiences, and leveraging technology to unlock growth. 
+
 
 * 🌍  I'm based in South Florida
 * 🖥️  See my portfolio at [codemarc.net](http://codemarc.net)
