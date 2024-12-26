@@ -7,7 +7,7 @@ I drive impactful change and lead innovative projects. I am eager to take on any
 * 🌍  I'm based in South Florida
 * 🖥️  See my portfolio at [codemarc.net](http://codemarc.net)
 * ✉️  You can contact me at [marc@codemarc.net](mailto:marc@codemarc.net)
-* 🚀  I'm currently working on [The rise of First Principles Leadership - DuckGPT](http://codemarc.hashnode.dev/the-rise-of-first-principles-leadership)
+* 🚀  I'm currently working on a series of articles [Meet DuckGPT, your next DSS](https://codemarc.hashnode.dev/series/duck-to-dss)
 
 ### Skills
 
