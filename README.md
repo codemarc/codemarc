@@ -1,4 +1,5 @@
-### Marc Greenberg - Fractional CTO/Tech Consultant
+### Marc Greenberg - Direct of Software Strategy 
+and simetimes a fractional CTO/Tech Consultant
 
 **Driving SaaS Success**: I deliver tangible results by optimizing your tech stack, empowering your team, and solving critical problems. My strategic guidance ensures your company is well-positioned for rapid growth and sustained success.
 
