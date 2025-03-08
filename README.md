@@ -1,16 +1,17 @@
 ### Marc Greenberg - Director of Software Strategy (The DSS)
 and sometimes a fractional CTO/Tech Consultant
 
-I drive impactful change and lead innovative projects. I am eager to take on any new challenge that allows for broad strategic influence and collaboration. I seek to contribute to an organization with a bold vision where I can apply my expertise in scaling engineering teams, delivering transformative customer experiences, and leveraging technology to unlock growth. 
+I drive change and lead innovative projects. I am eager to take on any new challenge that allows for broad strategic influence and collaboration. I seek to contribute to an organization with a bold vision where I can apply my expertise in scaling engineering teams, delivering transformative customer experiences, and leveraging technology to unlock growth. 
 
-
+* ⚡  I love to code in all forms of script - on the frontend, in the middle and on the backend.
+* 🧠  I'm learning agentic ai frameworks
+* 🖥️  portfolio at [codemarc.net](https://codemarc.net)
+* ✉️  contact me at [marc@codemarc.net](mailto:marc@codemarc.net)
 * 🌍  I'm based in South Florida
-* 🖥️  See my portfolio at [codemarc.net](http://codemarc.net)
-* ✉️  You can contact me at [marc@codemarc.net](mailto:marc@codemarc.net)
-* 🚀  I'm currently working on a series of articles [Meet DuckGPT, your next DSS](https://codemarc.hashnode.dev/series/duck-to-dss)
+* 🚀  I maintain a great blog [see codemarc](https://codemarc.hashnode.dev/) and I'm currently working on  
+  a series of articles [Meet DuckGPT, your next DSS](https://codemarc.hashnode.dev/series/duck-to-dss)
 
 <a href="https://codemarc.hashnode.dev/series/duck-to-dss"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1734724967753/bd4dab66-9f50-4c2a-8201-049e22278079.webp?w=256&fit=crop&crop=entropy&auto=compress,format&format=webp"/></a>
-
 
 ### Skills
 
