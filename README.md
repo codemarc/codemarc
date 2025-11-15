@@ -10,7 +10,6 @@ I drive change and lead innovative projects. I am eager to take on any new chall
 * 🌍  I'm based in South Florida
 * 🚀  I maintain a great blog [see codemarc](https://codemarc.hashnode.dev/) and I'm currently working on  
   a series of articles [Meet DuckGPT, your next DSS](https://codemarc.hashnode.dev/series/duck-to-dss)
-* And a place on github pages (https://codemarc.github.io/
 * And [codemarc.github.io a place on github pages](https://codemarc.github.io/)
   
 
