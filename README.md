@@ -4,7 +4,7 @@ Formally The Software Strategy (The DSS) and sometimes a fractional CTO/Tech Con
 I drive change and lead innovative projects. I am eager to take on any new challenge that allows for broad strategic influence and collaboration. I seek to contribute to an organization with a bold vision where I can apply my expertise in scaling engineering teams, delivering transformative customer experiences, and leveraging technology to unlock growth. 
 
 * ⚡  I love to code in all forms of script - on the frontend, in the middle and on the backend.
-* 🧠  I'm learning agentic ai frameworks
+* 🧠  I offer a variety of services at [BrainTrailz](https://braintrailz,com)
 * 🖥️  portfolio at [codemarc.net](https://codemarc.net)
 * ✉️  contact me at [marc@codemarc.net](mailto:marc@codemarc.net)
 * 🌍  I'm based in [South Florida](https://braintrailz.com/recruiter/maps/sofla/)
