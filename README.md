@@ -7,7 +7,7 @@ I drive change and lead innovative projects. I am eager to take on any new chall
 * 🧠  I'm learning agentic ai frameworks
 * 🖥️  portfolio at [codemarc.net](https://codemarc.net)
 * ✉️  contact me at [marc@codemarc.net](mailto:marc@codemarc.net)
-* 🌍  I'm based in South Florida
+* 🌍  I'm based in [South Florida](https://braintrailz.com/recruiter/maps/sofla/)
 * 🚀  I maintain a great blog [see codemarc](https://codemarc.hashnode.dev/) and I'm currently working on  
   a series of articles [Meet DuckGPT, your next DSS](https://codemarc.hashnode.dev/series/duck-to-dss)
 * And [codemarc.github.io a place on github pages](https://codemarc.github.io/)
