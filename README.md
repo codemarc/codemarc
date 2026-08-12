@@ -4,6 +4,7 @@ Sometimes a fractional CTO/Tech Consultant,
 Always Hand-on / Hands-In
 And I like to write writer.
 
+* I just published a [vs-code](https://marketplace.visualstudio.com/items?itemName=codemarc.muse-cli-chat) / [cursor](https://open-vsx.org/extension/codemarc/muse-cli-chat) extension [muse-cli-chat](https://blog.codemarc.net/inception-a-muse-inside-muse)
 
 * ⚡ I love to code in all forms of script - on the frontend, in the middle and on the backend.
 * 🧠 I offer a variety of services at [BrainTrailz](https://braintrailz.com)
@@ -15,7 +16,6 @@ And I like to write writer.
 * a series of articles [Meet DuckGPT, your next DSS](https://codemarc.hashnode.dev/series/duck-to-dss)
 * And [codemarc.github.io a place on github pages](https://codemarc.github.io/)
 
-* I just published a [vs-code](https://marketplace.visualstudio.com/items?itemName=codemarc.muse-cli-chat) / [cursor](https://open-vsx.org/extension/codemarc/muse-cli-chat) extension [muse-cli-chat](https://blog.codemarc.net/inception-a-muse-inside-muse)
              
 
 ### Stack
